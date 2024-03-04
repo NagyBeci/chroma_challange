@@ -3,9 +3,9 @@ Consider this html file for reference and provide examples and ideas from it. Yo
 
 GitHub Copilot: # Chroma Challenge
 
-![GitHub last commit](https://img.shields.io/github/last-commit/user/repo)
-![GitHub top language](https://img.shields.io/github/languages/top/user/repo)
-![GitHub repo size](https://img.shields.io/github/repo-size/user/repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/NagyBeci/chroma_challange)
+![GitHub top language](https://img.shields.io/github/languages/top/NagyBeci/chroma_challange)
+![GitHub repo size](https://img.shields.io/github/repo-size/NagyBeci/chroma_challange)
 
 Chroma Challenge is a simple, yet engaging game built with Vue.js. It's a color-based version of the classic game "Simon Says". The game is designed to help beginners practice committing to GitHub and using Vue.js.
 
