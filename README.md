@@ -1,7 +1,3 @@
-NagyBeci: Create a readme.md text for github using the main concepts of our game. It's like a simple Simon Says but only to practice committing to github and using Vue.js.
-Consider this html file for reference and provide examples and ideas from it. You can be descriptive and also add cool github badges if you'd like.
-
-GitHub Copilot: # Chroma Challenge
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NagyBeci/chroma_challange)
 ![GitHub top language](https://img.shields.io/github/languages/top/NagyBeci/chroma_challange)
